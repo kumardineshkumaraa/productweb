@@ -726,7 +726,7 @@ style.html
 ![output](./out22.png)
 
 ## HTML Validator
-![HTML Validator](./valid.6)
+![HTML Validator](./valid6.png)
 
 
 ## Result:
